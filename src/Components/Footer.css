@@ -1,0 +1,30 @@
+.rectangle {
+	position: absolute;
+	width: 760px;
+	height: 170px;
+	top: 1300px;
+	left: 650px;
+	background:#c4c4c4 ;
+}
+.curer {
+min-width: 500px;
+max-width: 900px;
+margin-top: 1450px;
+min-height: 600px;
+max-height: 800px;
+margin-left: 500px;
+padding-bottom: 50px;
+
+	}
+
+.words {
+	position: absolute;
+	width: 400px;
+	height: 70px;
+	left: 860px;
+	top: 1320px;
+	font-family: "Rubik Mono One";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+}

@@ -1,0 +1,83 @@
+.telp {
+ position: absolute;
+width: 65px;
+height: 20px;
+left: 650px;
+top: 30px;
+}
+
+.main {
+position: absolute;
+width: 60px;
+height: 20px;
+left: 350px;
+top: 33px;
+}
+.pro {
+	position: absolute;
+	width: 60px;
+	height: 20px;
+	left: 1400px;
+	top: 30px;
+}
+.inst {
+	position: absolute;
+	width: 60px;
+	height: 20px;
+	left: 1050px;
+	top: 30px;
+
+}
+
+.nst {
+	font-family: "Rosario";
+	font-style: normal;
+	font-weight: normal;
+	line-height: 17px;
+
+	color:red;
+}
+
+.telegram {
+	position: absolute;
+	width: 60px;
+	height: 20px;
+	left: 1750px;
+	top: 30px;
+}
+
+.telega {
+	font-family: "Rosario";
+	font-style: normal;
+	font-weight: normal;
+	line-height: 17px;
+
+}
+
+.bike {
+	position: absolute;
+	width: 100px;
+	height: 70px;
+	left: 0px;
+	top: 30px;
+}
+
+.dostavka {
+	position: absolute;
+	width: 150px;
+	height: 25px;
+	left: 100px;
+	top: 42px;
+	font-family: "Rubik Mono One";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	line-height: 20px;
+	color: royalblue;
+}
+.golovna {
+	color: #430FB0;
+	font-family: "Rosario";
+
+
+}

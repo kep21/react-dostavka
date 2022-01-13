@@ -1,0 +1,187 @@
+.mot{
+  position: absolute;
+  height: 700px;
+  width: 1400px;
+  left: 360px;
+  top: 100px;
+  border-radius: 0px;
+	filter: invert(0%) sepia(109%) saturate(3260%) hue-rotate(93deg) brightness(68%) contrast(80%);
+}
+
+.text {
+ position: absolute;
+ width: 560px;
+ height: 60px;
+ left: 800px;
+ top: 220px;
+ font-family: "Rubik Mono One";
+ font-style: normal;
+ font-weight: normal;
+ font-size: 24px;
+ line-height: 30px;
+}
+
+.pidtekst {
+position: absolute;
+width: 405px;
+height: 30px;
+left: 820px;
+top: 280px;
+font-family: "Rubik Mono One";
+ font-style: normal;
+ font-weight: normal;
+ font-size: 14px;
+ line-height: 14px;
+ color: rgba(0, 0, 0, 1);
+
+}
+
+.btn {
+	position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 600px;
+  left: 930px;
+}
+
+.ntb {
+	position: absolute;
+	width: 250px;
+	height: 100px;
+	background-color: yellowgreen;
+	font-family: "Rubik Mono One";
+  text-transform:uppercase;
+}
+
+.perevaga {
+	position:absolute;
+	width: 240px;
+	height: 45px;
+	top: 870px;
+	left: 900px;
+	font-family: "Rubik Mono One";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	line-height: 45px;
+}
+
+.trangle {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	top: 1000px;
+	margin-left: 100px;
+	margin-bottom: 40px;
+	background: #c4c4c4;
+}
+
+.food {
+	position: absolute;
+	width: 100px;
+	height: 80px;
+	left: 170px;
+	top:1040px ;
+}
+
+.kub {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	top: 1000px;
+	left: 600px;
+	margin-left: 30px;
+	margin-bottom: 40px;
+	background: #c4c4c4;
+}
+
+.kvadrat {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	top: 1000px;
+	background: #c4c4c4;
+	left: 1060px;
+	margin-left: 90px;
+}
+.square {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	background: #c4c4c4;
+	top: 1000px;
+
+	left: 1630px;
+}
+.chicken {
+	position: absolute;
+	width: 120px;
+	height: 100px;
+	left: 690px;
+	top:1030px ;
+}
+.weather {
+	position: absolute;
+	width: 150px;
+	height: 80px;
+	top: 1040px;
+	left: 1200px;
+}
+.cinema {
+	position: absolute;
+	width: 100px;
+	height: 80px;
+	top: 1040px;
+	left: 1710px;
+}
+
+
+.zvilnu {
+	position: absolute;
+	width: 300px;
+	height: 60px;
+	left: 105px;
+	top: 1200px;
+	font-family: "Rubik Mono One";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 10px;
+}
+.nasoloda {
+	position: absolute;
+	width: 250px;
+	height: 50px;
+	left: 635px;
+	top: 1170px;
+	font-family: "Rubik Mono One";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.zdorovum {
+	position: absolute;
+	width: 250px;
+	height: 50px;
+	left: 1190px;
+	top: 1170px;
+	font-family: "Rubik Mono One";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 25px;
+}
+.pereglan {
+	position: absolute;
+	width: 250px;
+	height: 50px;
+	left: 1670px;
+	top: 1160px;
+	font-family: "Rubik Mono One";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 25px;
+}
